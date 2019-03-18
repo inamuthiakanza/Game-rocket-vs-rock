@@ -1,1 +1,4 @@
-# Game-rocket-vs-rock
+# Quick Setup
+- Download Greenfoot https://www.greenfoot.org/download
+- Clone the repository
+- Open and run
